@@ -15,4 +15,3 @@ void main()
     /* ALGORITHM: */
     /* all program’s instructions are written here */
 }
-
